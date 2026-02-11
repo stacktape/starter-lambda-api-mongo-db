@@ -1,0 +1,17 @@
+{
+  "name": "lambda-api-mongo-db",
+  "version": "1.0.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/stacktape/stacktape/issues"
+  },
+  "author": "Stacktape team <info@stacktape.com> (https://stacktape.com)",
+  "scripts": {},
+  "dependencies": {
+    "aws4": "^1.13.2",
+    "mongoose": "^9.1.6"
+  },
+  "devDependencies": {
+    "stacktape": "^3.4.0"
+  }
+}
